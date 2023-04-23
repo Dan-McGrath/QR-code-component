@@ -1,3 +1,5 @@
+//Variables
+
 $light-gray: hsl(212, 45%, 89%);
 $grayish-blue: hsl(220, 15%, 55%);
 $dark-blue: hsl(218, 44%, 22%);
@@ -11,6 +13,8 @@ $ff: ('Outfit', sans-serif);
 
 $fw-normal: 400;
 $fw-bold: 700;
+
+// Default setup 
 
 * {
     box-sizing: border-box;
@@ -27,6 +31,8 @@ body {
     min-height: 100vh;
     line-height: 1.6;
 }
+
+// QR-Card
 
 .card {
     box-shadow: 0 0 20px rgba(0 0 0 / 0.5);
@@ -47,6 +53,7 @@ body {
         
     }
 
+    // text section
     .qr-main{
         display: flex;
         text-align: center;
