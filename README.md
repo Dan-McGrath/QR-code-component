@@ -32,4 +32,9 @@ Pretty simple overall but I was having difficulty getting the img in the spot I 
 - Frontend Mentor - [@Dan-McGrath]https://www.frontendmentor.io/profile/Dan-McGrath
 
 
+## Acknowledgments
+
+- Hassia Issah -[@Hassiai]https://www.frontendmentor.io/profile/Hassiai
+  - Helped with issues of accessibility of html and responsiveness of the component
+
 
